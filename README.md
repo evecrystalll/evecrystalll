@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sci-fi, fictional books, hiking and programming.
 - 🌱 I’m currently learning cognitive science but I enjoy comp sci.
 - 💞️ I’m looking to collaborate on cryptos, games, coding practice.
-- 📫 How to reach me evecrystal10
+- 📫 How to reach me evecrystal100@gmail.com
 
 <!---
 evecrystalll/evecrystalll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
